@@ -7,28 +7,28 @@ const categories = [
 const products = [
   {
     id: 1,
-    name: "Laptop",
-    description: "Laptop Lenovo",
-    price: 900,
-    imageUrl: "https://via.placeholder.com/150",
+    name: "Iphone",
+    description: "Iphone 17 pro max",
+    price: 1450,
+    imageUrl: "/images/iphone17.webp",
     categoryId: 1,
     stock: 5
   },
   {
     id: 2,
-    name: "Mouse",
-    description: "Mouse gamer",
-    price: 25,
-    imageUrl: "https://via.placeholder.com/150",
+    name: "Mesa",
+    description: "Mesa familiar",
+    price: 450,
+    imageUrl: "/images/mesa.webp",
     categoryId: 1,
     stock: 10
   },
   {
     id: 3,
-    name: "Balón",
-    description: "Balón de fútbol",
-    price: 30,
-    imageUrl: "https://via.placeholder.com/150",
+    name: "Raqueta",
+    description: "Raqueta de tennis",
+    price: 150,
+    imageUrl: "/images/raqueta.jpg",
     categoryId: 3,
     stock: 7
   }
